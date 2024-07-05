@@ -1,0 +1,7 @@
+D:\C#Rev\IntToRoman\bin\Debug\IntToRoman.exe.config
+D:\C#Rev\IntToRoman\bin\Debug\IntToRoman.exe
+D:\C#Rev\IntToRoman\bin\Debug\IntToRoman.pdb
+D:\C#Rev\IntToRoman\obj\Debug\IntToRoman.csproj.AssemblyReference.cache
+D:\C#Rev\IntToRoman\obj\Debug\IntToRoman.csproj.CoreCompileInputs.cache
+D:\C#Rev\IntToRoman\obj\Debug\IntToRoman.exe
+D:\C#Rev\IntToRoman\obj\Debug\IntToRoman.pdb
