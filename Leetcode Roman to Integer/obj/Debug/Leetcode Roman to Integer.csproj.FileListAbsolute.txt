@@ -1,0 +1,7 @@
+D:\C#Rev\Leetcode Roman to Integer\bin\Debug\Leetcode Roman to Integer.exe.config
+D:\C#Rev\Leetcode Roman to Integer\bin\Debug\Leetcode Roman to Integer.exe
+D:\C#Rev\Leetcode Roman to Integer\bin\Debug\Leetcode Roman to Integer.pdb
+D:\C#Rev\Leetcode Roman to Integer\obj\Debug\Leetcode Roman to Integer.csproj.AssemblyReference.cache
+D:\C#Rev\Leetcode Roman to Integer\obj\Debug\Leetcode Roman to Integer.csproj.CoreCompileInputs.cache
+D:\C#Rev\Leetcode Roman to Integer\obj\Debug\Leetcode Roman to Integer.exe
+D:\C#Rev\Leetcode Roman to Integer\obj\Debug\Leetcode Roman to Integer.pdb
