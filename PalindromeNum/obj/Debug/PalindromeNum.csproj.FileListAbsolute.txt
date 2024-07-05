@@ -1,0 +1,7 @@
+D:\C#Rev\PalindromeNum\bin\Debug\PalindromeNum.exe.config
+D:\C#Rev\PalindromeNum\bin\Debug\PalindromeNum.exe
+D:\C#Rev\PalindromeNum\bin\Debug\PalindromeNum.pdb
+D:\C#Rev\PalindromeNum\obj\Debug\PalindromeNum.csproj.AssemblyReference.cache
+D:\C#Rev\PalindromeNum\obj\Debug\PalindromeNum.csproj.CoreCompileInputs.cache
+D:\C#Rev\PalindromeNum\obj\Debug\PalindromeNum.exe
+D:\C#Rev\PalindromeNum\obj\Debug\PalindromeNum.pdb
