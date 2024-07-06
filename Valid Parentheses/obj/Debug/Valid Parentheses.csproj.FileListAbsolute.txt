@@ -1,0 +1,7 @@
+D:\leetCodeC#\Valid Parentheses\bin\Debug\Valid Parentheses.exe.config
+D:\leetCodeC#\Valid Parentheses\bin\Debug\Valid Parentheses.exe
+D:\leetCodeC#\Valid Parentheses\bin\Debug\Valid Parentheses.pdb
+D:\leetCodeC#\Valid Parentheses\obj\Debug\Valid Parentheses.csproj.AssemblyReference.cache
+D:\leetCodeC#\Valid Parentheses\obj\Debug\Valid Parentheses.csproj.CoreCompileInputs.cache
+D:\leetCodeC#\Valid Parentheses\obj\Debug\Valid Parentheses.exe
+D:\leetCodeC#\Valid Parentheses\obj\Debug\Valid Parentheses.pdb
