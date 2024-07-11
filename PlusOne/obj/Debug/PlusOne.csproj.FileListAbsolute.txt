@@ -1,0 +1,7 @@
+D:\leetCodeC#\PlusOne\bin\Debug\PlusOne.exe.config
+D:\leetCodeC#\PlusOne\bin\Debug\PlusOne.exe
+D:\leetCodeC#\PlusOne\bin\Debug\PlusOne.pdb
+D:\leetCodeC#\PlusOne\obj\Debug\PlusOne.csproj.AssemblyReference.cache
+D:\leetCodeC#\PlusOne\obj\Debug\PlusOne.csproj.CoreCompileInputs.cache
+D:\leetCodeC#\PlusOne\obj\Debug\PlusOne.exe
+D:\leetCodeC#\PlusOne\obj\Debug\PlusOne.pdb
